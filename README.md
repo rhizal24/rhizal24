@@ -1,6 +1,7 @@
 # 🐦‍🔥Hell Nah ~ I'm Muhammad Rhizal Rhomadon
 
 🎒 I'm currently a bachelor's degree student in information technology. 
+
 🌱 I’m currently learning ML, DL, and interested on 3D project.
 
 While I study IT and spend a lot of time coding, I’m not limited to just writing code. I also enjoy **editing videos, creating motion graphics, and working in videography**. For me, technology and creativity go hand in hand, code builds the future, and visuals bring it to life.
