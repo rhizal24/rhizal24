@@ -32,8 +32,6 @@ While I study IT and spend a lot of time coding, I’m not limited to just writi
   </a>
 </p>
 
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
-
 <!-- ## 📊Github Stats
 ![Rhizal's GitHub stats](https://github-readme-stats.vercel.app/api?username=rhizal24&show_icons=true&theme=dracula) -->
 
